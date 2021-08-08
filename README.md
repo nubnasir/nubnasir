@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Nasir Uddin Bhuiyan (@nubnasir)
-- 👀 I’m interested in Microservices
-- 🌱 I’m currently learning Spring Cloud, api gateway, zipkin, hystrix RabbitMQ, and other required items to develop a microservice based project
+- 👀 I’m interested in Java, Microservices, AWS, Kubernetes.
+- 🌱 I’m currently learning AWS, Kubernetes.
 - 💞️ I’m looking to collaborate on microservice based projects
 - 📫 Reach me via nubnasir@gmail.com
 
